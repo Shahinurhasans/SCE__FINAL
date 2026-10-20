@@ -1,0 +1,12 @@
+# Ignore contents of these folders but keep the folders via .gitkeep
+Dataset/*
+!Dataset/.gitkeep
+
+Others/*
+!Others/.gitkeep
+
+Models/*
+!Models/.gitkeep
+
+Transformer/*
+!Transformer/.gitkeep
